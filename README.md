@@ -20,9 +20,6 @@ Aspiring Full Stack Developer | MSc IT Graduate
   <img src="https://img.icons8.com/color/48/000000/bootstrap.png" style="margin-right:10px;" />
   <img src="https://img.icons8.com/color/48/000000/javascript.png" style="margin-right:10px;" />
   <img src="https://img.icons8.com/color/48/000000/react-native.png" style="margin-right:10px;" />
-</p>
-
-<p align="left">
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" style="margin-right:10px;" />
   <img src="https://img.icons8.com/color/48/000000/spring-logo.png" style="margin-right:10px;" />
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" style="margin-right:10px;" />
