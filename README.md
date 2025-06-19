@@ -13,15 +13,21 @@ Aspiring Full Stack Developer | MSc IT Graduate
 ---
 
 ### 🚀 I Code With  
-<img height="50" src="https://img.icons8.com/color/48/000000/html-5.png"/> 
-<img height="50" src="https://img.icons8.com/color/48/000000/css3.png"/>
-<img height="50" src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
-<img height="50" src="https://img.icons8.com/color/48/000000/javascript.png"/>
-<img height="50" src="https://img.icons8.com/color/48/000000/react-native.png"/>  
-<br/>
-<img height="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
-<img height="50" src="https://img.icons8.com/color/48/000000/spring-logo.png"/>
-<img height="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
+
+<p align="left">
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" style="margin-right:10px;" />
+  <img src="https://img.icons8.com/color/48/000000/css3.png" style="margin-right:10px;" />
+  <img src="https://img.icons8.com/color/48/000000/bootstrap.png" style="margin-right:10px;" />
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" style="margin-right:10px;" />
+  <img src="https://img.icons8.com/color/48/000000/react-native.png" style="margin-right:10px;" />
+</p>
+
+<p align="left">
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" style="margin-right:10px;" />
+  <img src="https://img.icons8.com/color/48/000000/spring-logo.png" style="margin-right:10px;" />
+  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" style="margin-right:10px;" />
+</p>
+
 
 
 
